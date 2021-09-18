@@ -1,0 +1,6 @@
+/lectures
+*.metadata
+**bin
+**.settings
+**.classpath
+**.project
